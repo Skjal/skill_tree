@@ -11,7 +11,7 @@ This app is not responsive.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 APP DESCRIPTION:
-Skill description will appear on hover. You have to spend at least 1 point to unlock next tier. This app is not responsive.
+Skill description will appear on hover. You have to spend at least 1 point to unlock next tier.
 
 -----
 All images are part of game GRIM DAWN > http://www.grimdawn.com/ which is property of Crate ENTERTAINMENT > http://www.crateentertainment.com/ 
